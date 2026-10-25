@@ -188,7 +188,7 @@ Alternatively, upload and open any `.ipynb` file directly in [Google Colaborator
 ## 📂 Repository Structure
 
 ```plaintext
-ai ml lab/
+Deep-learning-lab/
 │
 ├── README.md               # Comprehensive documentation & practical index
 ├── prac1.py                # Practical 1: Simple Linear Regression from scratch
